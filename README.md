@@ -190,7 +190,6 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=phantrongnguyen&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
