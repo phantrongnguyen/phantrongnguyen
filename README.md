@@ -188,10 +188,8 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 ![](https://streak-stats.demolab.com/?user=X6K18&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=X6K18&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phantrongnguyen&theme=buefy&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
