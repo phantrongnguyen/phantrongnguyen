@@ -185,9 +185,10 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 
 # 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=X6K18&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=X6K18&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=phantrongnguyen&theme=blue_navy&hide_border=false)<br/>
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantrongnguyen&theme=github_dark)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -199,3 +200,4 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 <p align="center">
   <img src="https://raw.githubusercontent.com/phantrongnguyen/phantrongnguyen/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
