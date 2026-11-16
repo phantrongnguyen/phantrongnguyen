@@ -13,7 +13,9 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.phan.892024?locale=vi_VN) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/pn629503/_pins/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pn629503@gmail.com) 
+<a href="https://www.facebook.com/nguyen.phan.892024/"><img src="images/facebook.png" width="40" height="40" alt="Facebook" /></a>
+<a href="https://www.instagram.com/smoki_ng1806/"><img src="images/instagram.png" width="40" height="40" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/phan-tr%E1%BB%8Dng-nguy%C3%AAn-a966ab327/"><img src="images/linkedin.png" width="40" height="40" alt="LinkedIn" /></a>
 
 # 💻 Tech Stack
 
