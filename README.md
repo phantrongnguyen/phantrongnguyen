@@ -25,7 +25,7 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 
 <tr>
 <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" />
+  <img src="images/python.png" width="45" height="45" />
   <br>Python
 </td>
 
@@ -43,11 +43,6 @@ Hi, I'm a third-year Data Science student at the University of Industry and Trad
 <td align="center" width="90">
   <img src="images/excel.svg" width="45" height="45" />
   <br>Excel
-</td>
-
-<td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" />
-  <br>MySQL
 </td>
 
 <td align="center" width="90">
